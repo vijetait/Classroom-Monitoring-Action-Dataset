@@ -1,7 +1,8 @@
 # Classroom-Monitoring-Action-Dataset
 EduNet(DRSTA Trademark)
 
-Owner : Dr. Vijeta Sharma 
+Owner : Dr. Vijeta Sharma , Dr. Manjari Gupta 
+
 Website : https://edunet-drsta.com/
 
 Please fill out the google form in order to obtain the EduNet Classroom Dataset https://docs.google.com/forms/d/e/1FAIpQLSe-BwLpxy2LjBbPoLDqCm8cb7v0bqa-PO2jgKVW7kHbFgTBmw/viewform?usp=sf_link
